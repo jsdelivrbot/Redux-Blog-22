@@ -10,4 +10,4 @@ class PostsNew extends Component {
   }
 }
 
-export default PostNew;
+export default PostsNew;
